@@ -16,7 +16,7 @@
 <nav aria-label="Main navigation"><div><a href="#about">About</a><a href="#skills">Skills</a><a href="#projects">Projects</a></div></nav>
 <main>
 <section id="about"><h2>About Me</h2>
-<p>I’m Vineet Varghese, a finance student at Rutgers Business School and member of the Road to Wall Street program, pursuing a career in Sales &amp; Trading.</p></section>
+<p>I’m Vineet Varghese, a finance student at Rutgers Business School and member of the Road to Wall Street program, pursuing a career in Sales &amp; Trading interested in improving my soft skills and learning from professionals.</p></section>
 <section id="skills"><h2>Skills</h2>
 <!-- Edit this list to include skills you can confidently discuss. -->
 <ul class="skills"><li>Microsoft Excel</li><li>Financial Analysis</li><li>Market Research</li><li>Risk Assessment</li><li>Communication</li><li>Customer Service</li></ul></section>
