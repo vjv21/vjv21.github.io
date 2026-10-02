@@ -23,10 +23,26 @@
 <section id="projects"><h2>Projects</h2>
 <!-- Replace each title and description with a completed project. Keep the folder links or update them if you rename folders. -->
 <div class="projects">
-<article class="card"><p class="label muted">Project 01</p><h3>Project One</h3><p>Project details coming soon.</p><a href="projects/project-1/index.html">View project →</a></article>
-<article class="card"><p class="label muted">Project 02</p><h3>Project Two</h3><p>Project details coming soon.</p><a href="projects/project-2/index.html">View project →</a></article>
-<article class="card"><p class="label muted">Project 03</p><h3>Project Three</h3><p>Project details coming soon.</p><a href="projects/project-3/index.html">View project →</a></article>
-</div></section>
+  <article class="card">
+    <h3>Aptiv Bender Trust Presentation</h3>
+    <p>A group investment analysis of Aptiv covering its business,
+       industry, financial performance, and risks to support
+       a hold recommendation.</p>
+    <a href="projects/aptiv-presentation.pptx">
+      Download Aptiv Presentation
+    </a>
+  </article>
+
+  <article class="card">
+    <h3>HarbourVest Presentation</h3>
+    <p>A group research project examining communication and
+       collaboration at HarbourVest, with recommendations
+       based on employee interviews and organizational behavior concepts.</p>
+    <a href="projects/harbourvest-presentation.pptx">
+      Download HarbourVest Presentation
+    </a>
+  </article>
+</div>
 </main>
 <footer>Vineet Varghese · Personal Portfolio</footer>
 </body>
